@@ -705,7 +705,7 @@
 .main .breadcrumb-wrapper .breadcrumb .active {
   color: #222222;
 }
-.main .filter-icon {
+.main .filter-icon, .main .filter-open {
   display: none;
 }
 .main .main-content {
