@@ -781,12 +781,14 @@
     margin-bottom: 0;
   }
   .main input.filter-open {
+    display: block;
     position: absolute;
     top: -100%;
     left: 100%;
     z-index: -99;
   }
   .main label.filter-icon {
+    display: block;
     font-size: 16px;
     text-transform: uppercase;
     width: 100%;
